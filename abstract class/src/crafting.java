@@ -7,5 +7,6 @@ public class crafting extends Farcry{
         System.out.println("senjata baru dan medkit baru");
     }
 
+        
     
 }
