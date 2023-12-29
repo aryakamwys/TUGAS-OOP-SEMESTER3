@@ -1,4 +1,4 @@
-public class Ekslusifgame extends SteamGame {
+class Ekslusifgame extends SteamGame {
     protected String fiturtambahan;
 
     public Ekslusifgame(String nama, double harga, String fiturtambahan) {
