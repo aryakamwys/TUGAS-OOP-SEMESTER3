@@ -1,0 +1,18 @@
+==============================
+ Receipt pembelian Steam Game 
+==============================
+Game: stardew
+harga: RP203000.0
+
+Game: brawhalla
+harga: RP501000.0
+
+Game: fifa
+harga: RP200000.0
+
+Game: coc
+harga: RP150000.0
+
+------------------------------
+Total Amount: RP1054000.0
+==============================
