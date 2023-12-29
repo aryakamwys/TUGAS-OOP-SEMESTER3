@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-class Receipt {
+public class Receipt {
     private String fileName;
 
     public Receipt(String fileName) {
